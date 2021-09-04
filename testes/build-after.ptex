@@ -1,0 +1,10 @@
+COM any includes in here, will be in the main function.
+COM nothing is going to be added outside of this.
+
+PRINT "hello."
+PRINT "World."
+PRINT "This"
+PRINT "is"
+PRINT "Equal"
+
+PRINT 1 + 1

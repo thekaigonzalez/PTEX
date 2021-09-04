@@ -1,0 +1,13 @@
+PRINT "this will run the files. I guess.."
+
+COM we're going to include std.net.curl and try to run the "get()" function.
+
+COM PTEX does not include the "std.net.curl" module by default, so we're going to have to include it ourselves.
+
+RAW import std.net.curl;
+
+COM now lets run it.
+
+ASSIGN char[] example get("https://example.com");
+
+PRINT example

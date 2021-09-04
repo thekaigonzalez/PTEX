@@ -1,0 +1,7 @@
+ADDRESSING "warning: null line" warnings!!!
+
+"null line" occurs when a line has been having trouble being read.
+the "null line" issue usually doesn't affect compile performance, but more
+of the code quality.
+
+"null line" isn't serious, and most files will get the warning due to invalid line endings.

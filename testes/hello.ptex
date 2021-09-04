@@ -1,0 +1,7 @@
+PRINT "hello"
+
+COM This is a COMMENT
+
+PRINT "This is my Program."
+
+RAW writeln("this is a raw line");
